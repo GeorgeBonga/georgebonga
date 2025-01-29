@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋, I'm George Bonga Aseto
+I'm a Front-End Developer & Data Analyst passionate about building interactive applications and uncovering insights from data.
 
-<!--
-**GeorgeBonga/georgebonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On:
 
-Here are some ideas to get you started:
+📊 SQL & Python Project – Analyzing and visualizing data using SQL, Python, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 New Game App – Developing an exciting simple game using React Native.
+
+🌱 What I'm Learning:
+
+Advanced Python for data analysis & backend development.
+
+SQL for efficient querying and database management.
+
+Power BI & Excel for insightful data visualization.
+
+🤝 Let's Connect:
+💬 Ask me about React, React Native, SQL, Python, and data analysis.
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/george-bonga/)
+
+⚡ Fun fact: I love solving complex problems and making data tell compelling stories!
