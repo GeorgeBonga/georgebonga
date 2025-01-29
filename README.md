@@ -1,4 +1,5 @@
-Hi there 👋, I'm George Bonga Aseto
+**Hi there 👋, I'm George Bonga Aseto**
+
 I'm a Front-End Developer & Data Analyst passionate about building interactive applications and uncovering insights from data.
 
 🚀 What I'm Working On:
