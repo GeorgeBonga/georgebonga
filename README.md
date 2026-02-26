@@ -19,7 +19,5 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 
 ## Let's Connect
 
-You can reach me via email at georgebongaaseto@gmail.com or connect with me on LinkedIn:  
-https://www.linkedin.com/in/george-bonga-aseto/
-
+You can reach me via [email](mailto:bongageorge18@gmai.com) or connect with me on [Linkedin](https://www.linkedin.com/in/george-bonga/).
 Feel free to explore my repositories and reach out for collaboration opportunities!
