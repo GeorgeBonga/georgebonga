@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 ## Projects
 
 - [Zanvo E-Commerce Business Performance Report](https://github.com/GeorgeBonga/Zanvo-E-Commerce-Business-Performance-Report): Business performance analysis and KPI dashboard development.  
-- [Olist E-Commerce Sales & Purchase Analysis](https://github.com/GeorgeBonga/Olist-E-commerce-sales-Purchase-analysis): Sales trends, customer behavior, and operational insights analysis.  
-- [Data Professional Survey Analysis](https://github.com/GeorgeBonga/Data-Professional-Survey): Analysis of industry salary trends and tool usage.  
-- [Multi-Account Financial Weekly Performance Tracker](https://github.com/GeorgeBonga/Multi-Account-Financial-Weekly-Performance-Tracker): Financial performance tracking and structured reporting system.  
 
 ## Let's Connect
 
