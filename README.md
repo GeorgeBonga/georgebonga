@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 - **Statistical Analysis:** Exploratory Data Analysis, Regression Analysis  
 - **Tools:** Jupyter Notebook, Git, GitHub  
 
-## Projects
-
 - [Zanvo E-Commerce Business Performance Report](https://github.com/GeorgeBonga/Zanvo-E-Commerce-Business-Performance-Report): Business performance analysis and KPI dashboard development.  
 
 ## Let's Connect
